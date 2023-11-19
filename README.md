@@ -6,6 +6,8 @@ Public IDM on Polygon
 
 > More technical information will publish here after fundraising finish.
 
+#
+
 <div align="right">
   LotusChain - 2023
 </div>
