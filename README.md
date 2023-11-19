@@ -10,5 +10,5 @@ Public IDM (Input Data Messages) on Polygon
 #
 
 <div align="right">
-  LotusChain - 2023
+  <sub>LotusChain - 2023</sub>
 </div>
