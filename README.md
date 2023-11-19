@@ -2,7 +2,7 @@
 Public IDM on Polygon
 
 - Read Proposal [here](https://github.com/blue-lotus-lab/IDM-polygon/blob/main/PROPOSAL.md) 📑
-- Gitcoin Proposal [here](https://builder.gitcoin.co/#/chains/137/registry/0x5C5E2D94b107C7691B08E43169fDe76EAAB6D48b/projects/116) | Help to reaching the funds for this DAPP.
+- Gitcoin Proposal [here](https://builder.gitcoin.co/#/chains/137/registry/0x5C5E2D94b107C7691B08E43169fDe76EAAB6D48b/projects/116) | <sub>Help to reaching the funds for this DAPP.</sub>
 
 > More technical information will publish here after fundraising finish.
 
