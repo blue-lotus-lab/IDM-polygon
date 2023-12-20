@@ -1,3 +1,4 @@
+<!--
 <div align="right">
 <sub>Public | Fundraising </sub>
 </div>
@@ -16,3 +17,5 @@ Public IDM (Input Data Messages) on Polygon
 <div align="right">
   <sub>LotusChain - 2023</sub>
 </div>
+
+-->
